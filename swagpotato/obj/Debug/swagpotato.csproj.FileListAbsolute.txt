@@ -1,0 +1,6 @@
+C:\Users\David-alex\Desktop\école\Programmation\Library\swagpotato\swagpotato\bin\Debug\swagpotato.exe.config
+C:\Users\David-alex\Desktop\école\Programmation\Library\swagpotato\swagpotato\bin\Debug\swagpotato.exe
+C:\Users\David-alex\Desktop\école\Programmation\Library\swagpotato\swagpotato\bin\Debug\swagpotato.pdb
+C:\Users\David-alex\Desktop\école\Programmation\Library\swagpotato\swagpotato\obj\Debug\swagpotato.csprojResolveAssemblyReference.cache
+C:\Users\David-alex\Desktop\école\Programmation\Library\swagpotato\swagpotato\obj\Debug\swagpotato.exe
+C:\Users\David-alex\Desktop\école\Programmation\Library\swagpotato\swagpotato\obj\Debug\swagpotato.pdb
